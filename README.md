@@ -1,11 +1,6 @@
 ## Overview
-Repository creates for fast running development process with configuration, which are the same from project to project.
-
-## Building
-...
-
-## Troubleshooting
-...
+Домашнее задание к занятию 2.1 Функциональное программирование  
+Задача 1. Генератор словаря
 
 ## Release Notes
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
